@@ -1,2 +1,4 @@
 1
 22 
+print('Hello!');
+print('Repeat Hello!');
