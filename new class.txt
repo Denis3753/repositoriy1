@@ -1,2 +1,3 @@
 print('add new class');
 print('Hello my dear friend');
+print('Continue work');
